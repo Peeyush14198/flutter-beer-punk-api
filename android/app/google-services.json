@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31458215376",
+    "firebase_url": "https://frogbit-55de5.firebaseio.com",
+    "project_id": "frogbit-55de5",
+    "storage_bucket": "frogbit-55de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31458215376:android:159809ca8010d05b6f65d5",
+        "android_client_info": {
+          "package_name": "com.example.frogbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31458215376-vh2rh4382kip6su131nleg3v4s3mrb8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6X2ZkxN2ubtavPdBnwYvfgV5GtcDS-70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31458215376-vh2rh4382kip6su131nleg3v4s3mrb8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
